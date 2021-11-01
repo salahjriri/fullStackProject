@@ -3,7 +3,7 @@ avec une page de connexion en Spring security  en utilisant comme front ReactJs 
 
 -> les actions crud pour gérer une liste d'employers
 
--> des nouvelles fonctionnalités métier pour enrechir l'application 
+-> des nouvelles fonctionnalités métier pour enrechir la complexiter de l'application 
 
 -> rajout de graphes
 
